@@ -1,5 +1,5 @@
 <?php
-define('HOST', '127.0.0.1:3306');
+define('HOST','127.0.0.1:3306');
 define('USERNAME', 'root');
 define('PWD', ' mariadb');
 define('DB', 'ICAE02');
